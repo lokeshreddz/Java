@@ -1,4 +1,6 @@
-package generalExamples;
+package abstarctClassExample;
+
+import abstarctClassExample.Employee;
 
 /**
  * Created by lokesh.reddy on 02-03-2017.

@@ -1,4 +1,4 @@
-package generalExamples;
+package abstarctClassExample;
 
 /**
  * Created by lokesh.reddy on 02-03-2017.
@@ -14,4 +14,5 @@ public class AbstarctDemo {
         System.out.println("\n Call mailCheck using Employee reference--");
         e.mailCheck();
     }
+
 }

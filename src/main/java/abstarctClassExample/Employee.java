@@ -1,4 +1,4 @@
-package generalExamples;
+package abstarctClassExample;
 
 public abstract class Employee {
     private String name;

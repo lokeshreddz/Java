@@ -1,4 +1,4 @@
-package generalExamples;
+package StringManipulations;
 
 public class StringManipulationExamples {
 
